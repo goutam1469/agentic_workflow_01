@@ -1,9 +1,0 @@
-name : Local Config
-version : 1.0.0
-schema : v1
-
-models : 
-  - name : Mistral Small
-    provider : mistral
-    model : mistral-small-latest
-    apiKey : SPKZx11hOTgTI89ckuVD9V9xzGkIUoYE
